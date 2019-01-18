@@ -102,7 +102,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n10564808.md">魔鬼在统治着我们的世界(20)：媒体篇</a>
+            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n10586579.md">魔鬼在统治着我们的世界(20)：媒体篇</a>
           </td>
         </tr>
         <tr>
